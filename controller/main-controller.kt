@@ -7,4 +7,3 @@ fun readRequest() {
 fun sendResponse() {
     println("Sending response...")
 }
-
